@@ -1,0 +1,28 @@
+{
+  "name": "mongo-db-crud-course",
+  "version": "1.0.0",
+  "description": "This repository contains all methods except the `deprecated` ones that can be used to perform basic CRUD operations in MongoDB.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Octagon-simon/mongodb-crud-course.git"
+  },
+  "keywords": [
+    "crud",
+    "mongodb"
+  ],
+  "author": "Simon Ugorji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Octagon-simon/mongodb-crud-course/issues"
+  },
+  "homepage": "https://github.com/Octagon-simon/mongodb-crud-course#readme"
+}
