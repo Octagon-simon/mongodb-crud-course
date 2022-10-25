@@ -303,10 +303,12 @@ app.listen(port, () => {
 	//call the database function
 	db();
     //check if model is working as it should
-    (() => {
+    function checkModel(){
         //check the datatype of what our model inherits
         console.log(`The user model inherits datatype ${typeof User.prototype} from the model prototype`)
         //check collection name associated with model
         console.log(`The collection name associated with this model is ${User.prototype.collection.collectionName}`)
-    })();
+    }
+    //call the checkModel function
+    checkModel();
 })

@@ -38,6 +38,6 @@ You may uncomment any function invocation that you would like to test out and yo
 
 ## BUY THE BOOK
 
-All the functions and test cases within the ebook [CRUD OPERATIONS IN MONGODB](https://a.com) are contained in this repository. 
+All the functions and test cases within the ebook [CRUD OPERATIONS IN MONGODB](https://simonugorji.gumroad.com/l/crud-operations-in-mongodb-using-nodejs-and-express-framework) are contained in this repository. 
 
-So if you want a clearer explanation on how to perform **CRUD operations in MongoDB**, I suggest that you have a look at the ebook [CRUD OPERATIONS IN MONGODB](https://a.com)
+So if you want a clearer explanation on how to perform **CRUD operations in MongoDB**, I suggest that you have a look at the ebook [CRUD OPERATIONS IN MONGODB](https://simonugorji.gumroad.com/l/crud-operations-in-mongodb-using-nodejs-and-express-framework)
